@@ -3,23 +3,33 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README.md</title>
+
 </head>
 <body>
-  <h1 align="center">Proyecto AI Engineer</h1>
+  <h1 align="center">🚀 Proyecto RAG LLM AI Engineer</h1>
   <p align="center">
     <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/robot_1f916.png" alt="robot" width="100">
   </p>
-  <p align="center">¡Bienvenido al proyecto de ingeniería en AI! Aquí encontrarás todo lo necesario para interactuar con Ollama, construir una aplicación Flask, y más.</p>
+  
   <h2 align="center">Fases del Proyecto</h2>
-  <ol>
-    <li>Fase 1: Interacción con Ollama</li>
-    <li>Fase 2: Creando estructura de app</li>
-    <li>Fase 3: Interactuando con el LLM</li>
-    <li>Fase 4: Integrando capacidad de subir PDF</li>
-    <li>Fase 5: Agregar embeddings</li>
-    <li>Fase 6: Agregar model response</li>
-  </ol>
-  <p align="center">¡Explora cada fase y despliega tu aplicación AI con estilo! 🚀</p>
+## Descripción
+Este proyecto es una implementación de un sistema de inteligencia artificial para interactuar con un modelo de lenguaje y construir una aplicación Flask para procesar documentos PDF, calcular embeddings y responder preguntas.
+
+## Funcionalidades
+- Interacción con el modelo de lenguaje Ollama.
+- Creación de una aplicación Flask para procesamiento de textos y PDF.
+- Integración de embeddings de texto.
+- Respuestas a preguntas basadas en el modelo.
+
+## Requisitos
+- Python 3.7+
+- Ollama instalado
+- Flask y otras dependencias del proyecto instaladas
+
+## Instalación
+1. Clona este repositorio: 
+2. Instala las dependencias: 
+3. Ejecuta la aplicación: 
+
 </body>
 </html>
