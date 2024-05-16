@@ -3,59 +3,74 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Proyecto AI Engineer con Ollama</title>
+    <title>Proyecto Increíble 🌟</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
-            color: #333;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
             max-width: 800px;
-            margin: 0 auto;
+            margin: 50px auto;
             padding: 20px;
-            line-height: 1.6;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         h1 {
-            color: #007bff;
+            color: #333;
             text-align: center;
-        }
-        h2 {
-            color: #6610f2;
+            margin-bottom: 20px;
         }
         p {
-            margin-bottom: 20px;
+            color: #555;
+            line-height: 1.6;
         }
-        ul {
-            margin-bottom: 20px;
+        .emoji {
+            font-size: 20px;
+            margin-right: 5px;
         }
-        li {
-            margin-bottom: 5px;
+        .code {
+            background-color: #f0f0f0;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 14px;
+            margin-top: 20px;
+            overflow-x: auto;
         }
     </style>
 </head>
 <body>
-    <h1>🚀 Proyecto AI Engineer con Ollama 🤖</h1>
-
-    <h2>Fases del Proyecto:</h2>
-    <ul>
-        <li><strong>Fase 1:</strong> Interacción con Ollama</li>
-        <li><strong>Fase 2:</strong> Creación de la estructura de la app</li>
-        <li><strong>Fase 3:</strong> Interactuando con el LLM</li>
-        <li><strong>Fase 4:</strong> Integrando capacidad de subir PDF</li>
-        <li><strong>Fase 5:</strong> Agregar embeddings</li>
-        <li><strong>Fase 6:</strong> Agregar model response</li>
-    </ul>
-
-    <h2>¿Qué hace este proyecto?</h2>
-    <p>Este proyecto utiliza el modelo de lenguaje Ollama para crear una aplicación Flask que puede responder preguntas, procesar archivos PDF y calcular embeddings de texto.</p>
-
-    <h2>Instrucciones de Uso:</h2>
-    <ol>
-        <li>Clona este repositorio.</li>
-        <li>Instala las dependencias necesarias.</li>
-        <li>Sigue las instrucciones específicas de cada fase del proyecto en el código.</li>
-        <li>Ejecuta la aplicación y prueba las funcionalidades.</li>
-    </ol>
-
-    <h2>Recursos Adicionales:</h2>
-    <ul>
-        <li><a href
+    <div class="container">
+        <h1>Proyecto Increíble 🚀</h1>
+        <p>Bienvenido a este increíble proyecto. Aquí encontrarás todo lo que necesitas saber para empezar.</p>
+        <h2>Funcionalidades Principales</h2>
+        <ul>
+            <li><span class="emoji">✨</span> Interacción con Ollama</li>
+            <li><span class="emoji">💻</span> Estructura de la App</li>
+            <li><span class="emoji">📄</span> Subida de PDF</li>
+            <li><span class="emoji">🔍</span> Agregar Embeddings</li>
+            <li><span class="emoji">💬</span> Model Response</li>
+        </ul>
+        <h2>Instrucciones de Uso</h2>
+        <p>Para comenzar, sigue estos pasos:</p>
+        <div class="code">
+            <p>$ git clone https://github.com/tu-usuario/proyecto-increible.git</p>
+            <p>$ cd proyecto-increible</p>
+            <p>$ python -m venv myenv</p>
+            <p>$ .\myenv\Scripts\activate</p>
+            <p>$ python -m pip install -q langchain_community flask langchain-text-splitters fastembed pdfplumber chromadb langchain</p>
+            <p>$ python app.py</p>
+        </div>
+        <p>¡Listo! Ahora puedes acceder a la aplicación en <a href="http://localhost:8080" target="_blank">http://localhost:8080</a></p>
+        <h2>Contacto</h2>
+        <p>Si necesitas ayuda o tienes alguna pregunta, contáctanos en:</p>
+        <ul>
+            <li><span class="emoji">📧</span> Email: contacto@proyectoincreible.com</li>
+            <li><span class="emoji">💬</span> Telegram: t.me/proyectoincreible</li>
+        </ul>
+    </div>
+</body>
+</html>
