@@ -8,7 +8,7 @@
 <body>
   <h1 align="center">🚀 Proyecto RAG LLM AI Engineer</h1>
   <p align="center">
-    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/robot_1f916.png" alt="robot" width="100">
+    <img src="https://www.pngmart.com/files/23/Bot-PNG-Transparent.png" alt="robot" width="100">
   </p>
   
   <h2 align="center">Fases del Proyecto</h2>
