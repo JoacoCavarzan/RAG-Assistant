@@ -20,7 +20,7 @@ Este proyecto es una implementación de un sistema de inteligencia artificial pa
 - Creación de una aplicación Flask para procesamiento de textos y PDF.
 - Integración de embeddings de texto.
 - Respuestas a preguntas basadas en el modelo.
-
+  
 ## Requisitos
 - Python 3.7+
 - Ollama instalado
